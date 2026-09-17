@@ -102,7 +102,7 @@ Each experiment is resumable and crash-safe. Re-entering the same number skips t
 * `agent_core.py`: shared tool-calling, scoring, and logging logic
 * `agent.py` / `experiment_runner.py`: main experiment scripts (7 persuasion techniques + non-persuasive control, baseline/secure system prompts)
 * `connectivity_agent.py` / `connectivity_experiment_runner.py`: checks that Ollama and the tool-calling setup work before the main experiment; not part of the experimental findings
-* `Documents/`: task documents and the protected placeholder target file
+* `Documents/`: task documents and the protected dummy target file
 * `attack_prompts/`: the 16 injected prompts (7 techniques x 2 variants, plus 2 control variants)
 * `test_prompts/`: 10 neutral prompts used for the connectivity check
 * `responses/`: plaintext response logs from every trial across all 20 runs
@@ -112,7 +112,7 @@ Each experiment is resumable and crash-safe. Re-entering the same number skips t
 
 The scripts automatically generate the response folders and CSV result files during the experiments.
 
-The repository includes `results.csv` and `connectivity-results.csv` from my own experiments for documenting the findings. If you are cloning the repository to run your own experiments, delete these files and the existing response folders before starting so that your results are generated from a clean slate.
+The repository includes `results.csv` and `connectivity-results.csv` from my own experiments for documenting the findings. If you are cloning the repository to run your own experiments, delete these files before starting so that your results are generated from a clean slate.
 
 ## Ethics and scope
 
