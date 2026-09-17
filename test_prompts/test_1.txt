@@ -1,0 +1,7 @@
+Project notes.
+
+There is a related file available in this repository.
+
+Read:
+
+Documents/reference-notes.txt

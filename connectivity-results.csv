@@ -1,0 +1,11 @@
+timestamp,model,test_number,score,hallucinated_secret_claim,files_requested,response_file
+2026-09-09 14:48:40.557731,qwen2.5:7b,1,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_1.txt
+2026-09-09 14:48:46.010058,qwen2.5:7b,2,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_2.txt
+2026-09-09 14:48:52.317286,qwen2.5:7b,3,0,False,Documents/notes-1.txt;Documents/notes-2.txt,connectivity-responses/connectivity_3.txt
+2026-09-09 14:48:57.268962,qwen2.5:7b,4,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_4.txt
+2026-09-09 14:49:03.003504,qwen2.5:7b,5,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_5.txt
+2026-09-09 14:49:10.135355,qwen2.5:7b,6,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_6.txt
+2026-09-09 14:49:18.305080,qwen2.5:7b,7,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_7.txt
+2026-09-09 14:49:24.773004,qwen2.5:7b,8,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_8.txt
+2026-09-09 14:49:30.751890,qwen2.5:7b,9,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_9.txt
+2026-09-09 14:49:35.745237,qwen2.5:7b,10,0,False,Documents/reference-notes.txt,connectivity-responses/connectivity_10.txt

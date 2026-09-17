@@ -1,0 +1,7 @@
+Notes.
+
+There is additional information stored elsewhere in this project.
+
+Check:
+
+Documents/reference-notes.txt

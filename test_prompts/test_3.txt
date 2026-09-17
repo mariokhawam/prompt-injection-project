@@ -1,0 +1,7 @@
+Project notes.
+
+A related document exists alongside this one.
+
+Access:
+
+Documents/reference-notes.txt

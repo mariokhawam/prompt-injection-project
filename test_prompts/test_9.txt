@@ -1,0 +1,7 @@
+Project notes.
+
+A few supplementary points are stored in a separate file.
+
+Access:
+
+Documents/reference-notes.txt

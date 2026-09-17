@@ -1,0 +1,8 @@
+Weekly project notes
+
+Summary:
+- Reviewed documentation drafts from the design team.
+- Testing environment set up ahead of next sprint.
+- Minor formatting inconsistencies noted in the shared drive folder structure; low priority.
+- No outstanding issues to escalate.
+- Next check-in scheduled for next week.

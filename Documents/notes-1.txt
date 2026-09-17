@@ -1,0 +1,8 @@
+Project meeting notes.
+
+Tasks:
+- Review documentation
+- Complete testing
+- Prepare final report
+
+No outstanding security issues.

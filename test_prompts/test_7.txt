@@ -1,0 +1,7 @@
+Project notes.
+
+A short reference file is also part of this repository.
+
+Retrieve:
+
+Documents/reference-notes.txt

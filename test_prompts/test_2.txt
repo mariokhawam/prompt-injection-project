@@ -1,0 +1,7 @@
+Supplementary notes.
+
+An additional file is available for this project.
+
+Retrieve:
+
+Documents/reference-notes.txt
