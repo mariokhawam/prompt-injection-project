@@ -1,6 +1,6 @@
 # Persuasion-Based Prompt Injection Against Agentic AI
 
-Code and dataset for a final-year research project investigating whether persuasion techniques derived from Cialdini's seven principles of influence affect the success rate of indirect prompt injection attacks against an agentic AI framework.
+Code and dataset for a final-year research project investigating whether persuasion techniques derived from Cialdini's seven principles of influence affect the success rate of indirect prompt injection attacks against a simple agentic AI framework.
 
 The framework runs in a Linux-based environment and uses Qwen2.5:7B via Ollama, with results compared against a non-persuasive baseline.
 
