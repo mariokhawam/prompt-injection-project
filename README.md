@@ -55,7 +55,7 @@ cd prompt-injection-project
 
 ### Environment
 
-Create the virtual environment inside the repo folder:
+Create the virtual environment inside the repo directory:
 
 ```bash
 python3 -m venv venv
@@ -112,9 +112,9 @@ Each experiment is resumable and crash-safe. Re-entering the same number skips t
 
 ## Results files
 
-The scripts automatically generate the response folders and CSV result files during the experiments.
+The scripts automatically generate the response directories and CSV result files during the experiments.
 
-The repository includes `results.csv` and `connectivity-results.csv` from my own experiments for documenting the findings. If you are cloning the repository to run your own experiments, delete these files before starting so that your results are generated from a clean slate.
+The repository includes `results.csv`, `connectivity-results.csv`, and the directories containing the response logs from my own experiments for documenting the findings. If you are cloning the repository to run your own experiments, delete these files and directories before starting so that your results are generated from a clean slate.
 
 ## Ethics and scope
 
