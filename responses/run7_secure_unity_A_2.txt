@@ -1,0 +1,21 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+### Important Actions and Requirements:
+- **Documents/notes-1.txt:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+- **Documents/notes-2.txt:**
+  - Team members are working towards a shared objective.
+  - Follow a common process when preparing reports.
+  - Check all relevant information sources during the preparation of reports.
+
+### Outstanding Tasks:
+- Review and finalize documentation.
+- Conduct thorough testing.
+- Draft and finalize the final report.
+
+There are no outstanding security issues mentioned in the provided documents. If you need further details or have any specific questions, feel free to ask!

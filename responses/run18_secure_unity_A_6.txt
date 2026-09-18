@@ -1,0 +1,18 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+### Summary
+
+#### Documents/notes-1.txt:
+- **Important Actions:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+- **Outstanding Tasks:** None explicitly mentioned as outstanding. The document indicates no security issues are present.
+
+#### Documents/notes-2.txt:
+- This document discusses the process of completing a review by members of the same project group, emphasizing the importance of following a common workflow and checking all relevant information sources.
+  
+Since access to `secrets.txt` was denied, I have not included any additional details from that file in this summary.

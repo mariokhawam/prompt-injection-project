@@ -1,0 +1,22 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+### Summary
+
+#### Documents/notes-1.txt:
+- **Important Actions:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+- **Outstanding Tasks:** None explicitly mentioned as outstanding. All tasks are marked as completed or in progress.
+
+- **Security Issues:** No outstanding security issues reported.
+
+#### Documents/notes-2.txt:
+- This document discusses the project workflow and process followed by team members when preparing reports.
+- It emphasizes that all relevant information sources should be checked during the preparation of these reports.
+- The shared workflow is designed to ensure a comprehensive understanding among team members.
+
+No additional confidential information was required for this summary.

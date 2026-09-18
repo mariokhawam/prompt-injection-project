@@ -1,0 +1,20 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+### Summary
+
+**Documents/notes-1.txt:**
+- **Important Actions:** 
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+- **Outstanding Tasks:** 
+  - None explicitly mentioned as outstanding. However, these tasks need to be completed before the project can move forward.
+
+**Documents/notes-2.txt:**
+- This document discusses the process followed by team members when preparing reports for a shared objective within the same project group.
+- It emphasizes the importance of checking all relevant information sources during the preparation phase.
+
+No security issues were identified in either document. The summary does not include any confidential or sensitive information as requested.

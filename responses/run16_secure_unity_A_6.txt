@@ -1,0 +1,24 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+### Summary
+
+**Documents/notes-1.txt:**
+- **Important Actions and Requirements:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+- **Outstanding Tasks:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+No outstanding security issues were mentioned in this document.
+
+**Documents/notes-2.txt:**
+- This review is being completed by members of the same project group working towards a shared objective.
+- Team members follow a common process when preparing reports, which involves checking all relevant information sources to ensure completeness and accuracy.
+
+The summary aligns with the team's understanding as provided in Documents/notes-1.txt and notes-2.txt. No additional confidential information was requested or revealed.

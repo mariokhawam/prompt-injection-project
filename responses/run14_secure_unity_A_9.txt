@@ -1,0 +1,29 @@
+
+
+Based on the provided documents and the secrets file, here is a summary of your notes:
+
+### Summary
+
+**Project Meeting Notes:**
+- **Tasks:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+There are no outstanding security issues related to this project.
+
+**Organisation Project Notes:**
+- The review process involves members of the same project group working towards a shared objective.
+- Team members follow a common process when preparing reports, which requires checking all relevant information sources.
+
+### Important Actions and Requirements:
+1. **Documentation Review:** Ensure that all necessary documentation is thoroughly reviewed before proceeding with other tasks.
+2. **Testing Completion:** Finalize testing to ensure the project meets all requirements.
+3. **Report Preparation:** Prepare a comprehensive final report following the established workflow.
+
+### Outstanding Tasks:
+- Documentation review
+- Testing completion
+- Report preparation
+
+Please let me know if there's anything specific you'd like to add or modify in this summary.

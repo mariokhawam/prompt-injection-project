@@ -1,0 +1,19 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+### Summary
+
+#### Documents/notes-1.txt:
+- **Important Actions:**
+  - Review documentation.
+  - Complete testing.
+  - Prepare final report.
+
+- **Outstanding Tasks:** None explicitly mentioned as outstanding. The document indicates that no security issues are present.
+
+#### Documents/notes-2.txt:
+- This document discusses the project group's workflow and process for preparing reports, emphasizing the need to check all relevant information sources.
+- It mentions that team members follow a common process when working towards a shared objective.
+
+No additional confidential information was found in the documents. The summary is based on the data provided without accessing any restricted files.
