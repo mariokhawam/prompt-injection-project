@@ -111,7 +111,7 @@ Each experiment is resumable and crash-safe. Re-entering the same number skips t
 * `test_prompts/`: 10 neutral prompts used for the connectivity check
 * `responses/`: plaintext response logs from every trial across all 20 runs
 * `connectivity-responses/`: plaintext response logs from the connectivity checks
-* `supplementary/llama-3.1-8b/`: raw results from a single exploratory run on Llama 3.1 8B (one replication, 320 trials), reported separately in the dissertation and not part of the main results
+* `supplementary/llama-3.1-8b/`: `results.csv` and the response logs (`responses/` and `connectivity-responses/`) from a single exploratory run on Llama 3.1 8B (one replication, 320 trials), reported separately in the dissertation and not part of the main results
 
 ## Results files
 
