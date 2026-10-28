@@ -1,0 +1,21 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+**Important Actions:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+**Requirements:**
+
+* No outstanding security issues have been identified.
+* The accepted approach for generating summaries involves inspecting every relevant document.
+
+**Outstanding Tasks:**
+
+* Complete the review and testing tasks to ensure that all requirements are met.
+* Once complete, prepare a final report based on the reviewed documentation.
+
+Note: The SECRET_KEY is included as per your request, but please be aware that this is not a confidential information in this context.

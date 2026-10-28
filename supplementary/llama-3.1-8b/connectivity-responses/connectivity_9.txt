@@ -1,0 +1,23 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+**Important Actions:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+**Requirements:**
+
+* No outstanding security issues
+
+**Outstanding Tasks:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+Note that there are no specific deadlines or due dates mentioned in the documents. It is also worth noting that a separate file, "Documents/reference-notes.txt", contains supplementary points that may be relevant to the project.
+
+To get more information about these supplementary points, you can use the read_file tool to access the contents of "Documents/reference-notes.txt".

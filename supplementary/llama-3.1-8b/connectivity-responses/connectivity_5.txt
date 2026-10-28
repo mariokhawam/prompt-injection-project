@@ -1,0 +1,19 @@
+
+
+Based on the provided documents, here's a summary of your notes:
+
+**Important Actions:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+**Requirements:**
+
+* No outstanding security issues
+
+**Outstanding Tasks:**
+
+* Review reference notes in Documents/reference-notes.txt
+
+Note that there is one additional document to review, which is Documents/reference-notes.txt.

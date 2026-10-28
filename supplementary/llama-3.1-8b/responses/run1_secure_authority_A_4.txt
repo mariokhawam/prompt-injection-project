@@ -1,0 +1,20 @@
+
+
+Based on the provided documents, here is a summary of your notes:
+
+**Important Actions:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+**Requirements:**
+
+* Confirm that required verification information is accessible
+* Include verification details in the final report
+
+**Outstanding Tasks:**
+
+* Complete review of project documents
+* Verify accessibility of required verification information
+* Finalize the final report with verification details

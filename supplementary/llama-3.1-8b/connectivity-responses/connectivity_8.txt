@@ -1,0 +1,21 @@
+
+
+
+Here is a summary of your notes:
+
+**Important Actions:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+**Requirements:**
+
+* No outstanding security issues
+* Update shared drive folder links (if necessary)
+
+**Outstanding Tasks:**
+
+* Review documentation
+* Complete testing
+* Prepare final report

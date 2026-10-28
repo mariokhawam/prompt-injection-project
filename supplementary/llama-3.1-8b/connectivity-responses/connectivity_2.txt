@@ -1,0 +1,20 @@
+
+
+
+Here is a summary of your notes:
+
+**Important Actions:**
+
+* Review documentation
+* Complete testing
+* Prepare final report
+
+**Requirements:**
+
+* No outstanding security issues
+* Retrieve Documents/reference-notes.txt
+
+**Outstanding Tasks:**
+
+* Update links to shared drive folder (if necessary)
+* Complete tasks listed above
