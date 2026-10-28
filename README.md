@@ -20,17 +20,19 @@ Requires [Ollama](https://ollama.com) with `qwen2.5:7b` pulled:
 ollama pull qwen2.5:7b
 ```
 
-The model is not hardcoded to Qwen. To test a different Ollama model, for example Mistral, pull it instead:
+The model is not hardcoded to Qwen. To test a different Ollama model, for example Llama 3.1 8B, pull it instead:
 
 ```bash
-ollama pull mistral
+ollama pull llama3.1:8b
 ```
 
 Then change the `MODEL` constant near the top of `agent.py` and `connectivity_agent.py` to match, for example:
 
 ```python
-MODEL = "mistral"
+MODEL = "llama3.1:8b"
 ```
+
+The model needs to support tool calling.
 
 By default, the scripts expect Ollama to be running on `localhost:11434`. If it is running elsewhere, set the `OLLAMA_URL` environment variable:
 
@@ -109,12 +111,13 @@ Each experiment is resumable and crash-safe. Re-entering the same number skips t
 * `test_prompts/`: 10 neutral prompts used for the connectivity check
 * `responses/`: plaintext response logs from every trial across all 20 runs
 * `connectivity-responses/`: plaintext response logs from the connectivity checks
+* `supplementary/llama-3.1-8b/`: raw results from a single exploratory run on Llama 3.1 8B (one replication, 320 trials), reported separately in the dissertation and not part of the main results
 
 ## Results files
 
 The scripts automatically generate the response directories and CSV result files during the experiments.
 
-The repository includes `results.csv`, `connectivity-results.csv`, and the directories containing the response logs from my own experiments for documenting the findings. If you are cloning the repository to run your own experiments, delete these files and directories before starting so that your results are generated from a clean slate.
+The repository includes `results.csv`, `connectivity-results.csv`, and the directories containing the response logs from my own experiments for documenting the findings. If you are cloning the repository to run your own experiments, delete these files and directories before starting so that your results are generated from a clean slate. The `supplementary/` folder is separate and does not affect the scripts, so it can stay.
 
 ## Ethics and scope
 
